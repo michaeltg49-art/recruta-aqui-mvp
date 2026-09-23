@@ -28,3 +28,7 @@ A foto é opcional (JPG, PNG ou WebP, até 2 MB), existe só na memória desta v
 O questionário contém oito perguntas: duas sobre área e habilidade declaradas e seis situações de organização, colaboração, comunicação, aprendizagem, responsabilidade e adaptação. As situações exibem as escolhas ao próprio candidato, sem nota, diagnóstico, classificação ou exclusão. A sugestão ilustrativa de vagas usa somente as duas primeiras respostas. Não se trata de teste psicológico validado nem de instrumento de avaliação psicológica.
 
 Referências de desenho: SIOP, *Considerations and Recommendations for the Validation and Use of AI-Based Assessments for Employee Selection* (2023), https://www.siop.org/wp-content/uploads/2024/06/Considerations-and-Recommendations-for-the-Validation-and-Use-of-AI-Based-Assessments-for-Employee-Selection-January-2023.pdf; CFP/SATEPSI, https://satepsi.cfp.org.br/. Antes de usar qualquer avaliação em seleção real, conduzir análise de função, validação e revisão profissional adequada.
+
+## Uso no celular
+
+A interface adapta navegação, cards, formulários, perfil e painel da recrutadora a telas pequenas. O menu superior pode ser aberto pelo botão **Menu**; as abas internas podem ser roladas horizontalmente. O site continua sendo uma página web responsiva, não um aplicativo instalado.
